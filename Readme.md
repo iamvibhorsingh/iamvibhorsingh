@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I write and build things that fancy my interest.<br>🌱 I’m currently learning on-device LLMs.<br>💬 Ask me about distributed systems, AI, Football.<br>⚡ Fun fact 
+🔭 I write and build things that fancy my interest.<br>🌱 I’m currently learning on-device LLMs.<br>💬 Ask me about distributed systems, AI, Football.
 
 
 ## 🌐 Socials:
