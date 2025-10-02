@@ -37,7 +37,7 @@ Production-ready patterns for Apache Kafka Streams: stateful operations, windowi
 
 **Tech:** Java • Apache Kafka • Event-Driven Architecture
 
-### [BoundingBox Tool](https://iamvibhorsingh.github.io/boundingbox/)
+### [BoundingBox Tool](https://vibhorsingh.com/boundingbox)
 Professional GIS tool for geospatial coordinate generation. Enhanced bboxfinder.com alternative with EPSG projection support.
 
 **Tech:** JavaScript • Leaflet • GIS • GeoJSON
