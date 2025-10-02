@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamvibhorsingh) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@vibhorsingh.com)
-[![Website](https://img.shields.io/badge/Website-06B6D4?logo=google-chrome&logoColor=white)](https://iamvibhorsingh.github.io/)
+[![Website](https://img.shields.io/badge/Website-06B6D4?logo=google-chrome&logoColor=white)](http://vibhorsingh.com/)
 [![Chrome Extension](https://img.shields.io/badge/Extension-LookStuffUp-4285F4?logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/lookstuffup/boagbbfpkdeklbfneiegcdgmfofckhfc)
 [![arXiv](https://img.shields.io/badge/Research-arXiv-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2006.14644)
 
