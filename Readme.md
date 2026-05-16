@@ -14,7 +14,6 @@
 
 - 🏗️ Building **Kafka-as-a-Service** platform at [Fastenal](https://www.fastenal.com) serving **15+ engineering teams**
 - 📊 Maintaining **99.9% uptime** for mission-critical event streams processing **millions of events daily**
-- 📝 Research: [Determining Image Similarity with Quasi-Euclidean Metric](https://arxiv.org/abs/2006.14644)
 - 🔭 Currently learning: **on-device LLMs**
 - 💬 Ask me about: **distributed systems, Apache Kafka, AI Safety, machine learning, football**
 
@@ -78,7 +77,6 @@ Professional GIS tool for geospatial coordinate generation. Enhanced bboxfinder.
 ## 🎓 Education & Recognition
 
 - **MS Computer Science** - New York University (2021)
-- **Published Researcher** - AICAI '20 Conference
 - **Chrome Web Store** - 5.0★ rated developer
 
 ---
